@@ -1,0 +1,10 @@
+.header{
+    text-align: center;
+    padding: 10px;
+}
+
+.search{
+    width: 50%;
+    padding: 10px;
+    border-color: yellowgreen;
+}

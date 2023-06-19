@@ -1,0 +1,4 @@
+<div class="container">
+    <h2>Recent Blogs</h2>
+<app-single-blog *ngFor="let blog of allBlogs" [blogTitle]="blog.title" [blogImage]="blog.image" [blogDescription]="blog.description"  ></app-single-blog>
+</div>
